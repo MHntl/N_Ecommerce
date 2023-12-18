@@ -1,0 +1,9 @@
+export const HOME = 'Anasayfa';
+export const PROFILE = 'Profile';
+export const NOTIFICATION = 'Bildirimler';
+export const FAVORITES = 'Favoriler';
+export const PRODUCT_LIST = 'Ürünler';
+export const TAB = 'TAB';
+export const CART = 'Sepetim';
+export const LOGIN = 'Giriş Yap';
+export const REGISTER = 'Kayıt Ol';
