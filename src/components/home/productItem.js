@@ -63,12 +63,12 @@ const ProductItem = ({item}) => {
           <Star size="25" color="#ff8a65" variant="Bold" />
           <Text style={productItemStyles.title}>{item?.rating?.rate}</Text>
         </View>
-        <CustomButton
+        {/* <CustomButton
           title={'Sepete Ekle'}
           onPress={() => {
             addChart();
           }}
-        />
+        /> */}
       </View>
     </Pressable>
   );
